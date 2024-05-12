@@ -40,23 +40,6 @@ The Bike Rental System is an innovative web application designed to make the ren
 git clone https://yourrepositorylink.com
 cd Bike Rental System
 
-# Install backend dependencies
-npm install
-
-# Set up environment variables
-echo "DATABASE_URL=your_mongodb_connection_string" >> .env
-echo "SECRET_KEY=your_jwt_secret_key" >> .env
-
-# Start the backend server
-npm start
-
-# Navigate to the client directory and install dependencies
-cd client
-npm install
-
-# Start the React application
-npm start
-
 
 
 ## Usage
@@ -80,3 +63,22 @@ The entire project was developed by myself, Parth Sharma. My responsibilities sp
 - **Mobile App Version**: Develop a mobile version of the system for iOS and Android.
 - **Additional Payment Options**: Add support for cryptocurrencies and digital wallets.
 - **Enhanced User Interface**: Redesign the user interface for a more intuitive user experience.
+
+```bash
+# Install backend dependencies
+npm install
+
+# Set up environment variables
+echo "DATABASE_URL=your_mongodb_connection_string" >> .env
+echo "SECRET_KEY=your_jwt_secret_key" >> .env
+
+# Start the backend server
+npm start
+
+# Navigate to the client directory and install dependencies
+cd client
+npm install
+
+# Start the React application
+npm start
+
