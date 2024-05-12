@@ -40,3 +40,41 @@ The Bike Rental System is an innovative web application designed to make the ren
 ```bash
 git clone https://yourrepositorylink.com
 cd Bike Rental System
+
+Install backend dependencies:
+bash
+Copy code
+npm install
+Set up environment variables:
+Create a .env file in the root of your project and add the following:
+
+makefile
+Copy code
+echo "DATABASE_URL=your_mongodb_connection_string" >> .env
+echo "SECRET_KEY=your_jwt_secret_key" >> .env
+Start the backend server:
+bash
+Copy code
+npm start
+Navigate to the client directory and install dependencies:
+bash
+Copy code
+cd client
+npm install
+Start the React application:
+bash
+Copy code
+npm start
+Usage
+After setting up the project, you can access the Bike Rental System at http://localhost:3000 for the frontend and use the API at http://localhost:5000.
+
+Testing
+Unit Tests: Implemented for individual components and server routes.
+Integration Tests: Cover the complete workflow from user registration to bike rental.
+Contributions
+The entire project was developed by myself, Parth Sharma. My responsibilities spanned across all facets of the project including planning, development, design, testing, and deployment.
+
+Future Enhancements
+Mobile App Version: Develop a mobile version of the system for iOS and Android.
+Additional Payment Options: Add support for cryptocurrencies and digital wallets.
+Enhanced User Interface: Redesign the user interface for a more intuitive user experience.
