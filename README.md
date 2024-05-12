@@ -56,3 +56,27 @@ npm install
 
 # Start the React application
 npm start
+
+
+
+## Usage
+
+After setting up the project, you can access the Bike Rental System at `http://localhost:3000` for the frontend and use the API at `http://localhost:5000`.
+
+## Testing
+
+### Unit Tests
+Implemented for individual components and server routes.
+
+### Integration Tests
+Cover the complete workflow from user registration to bike rental.
+
+## Contributions
+
+The entire project was developed by myself, Parth Sharma. My responsibilities spanned across all facets of the project including planning, development, design, testing, and deployment.
+
+## Future Enhancements
+
+- **Mobile App Version**: Develop a mobile version of the system for iOS and Android.
+- **Additional Payment Options**: Add support for cryptocurrencies and digital wallets.
+- **Enhanced User Interface**: Redesign the user interface for a more intuitive user experience.
