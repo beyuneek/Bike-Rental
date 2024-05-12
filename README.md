@@ -35,7 +35,7 @@ The Bike Rental System is an innovative web application designed to make the ren
 
 ## Setup and Installation
 
-```bash
+
 # Clone the repository
 git clone https://yourrepositorylink.com
 cd Bike Rental System
