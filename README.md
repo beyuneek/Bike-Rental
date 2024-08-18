@@ -56,7 +56,7 @@ Cover the complete workflow from user registration to bike rental.
 
 ## Contributions
 
-The entire project was developed by Group 4 members:
+The entire project was developed by Group 5 members:
 
 - **Ayyappa Dhulipalla**
 - **Deep Devendra Patel**
