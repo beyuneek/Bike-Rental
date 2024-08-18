@@ -56,7 +56,13 @@ Cover the complete workflow from user registration to bike rental.
 
 ## Contributions
 
-The entire project was developed by myself, Parth Sharma. My responsibilities spanned across all facets of the project including planning, development, design, testing, and deployment.
+The entire project was developed by Group 5 members:
+
+Ayyappa Dhulipalla
+Deep Devendra Patel
+Michael Beckford
+Oshea Reid
+Parth Sharma
 
 ## Future Enhancements
 
